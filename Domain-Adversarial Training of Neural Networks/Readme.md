@@ -33,7 +33,7 @@ Where p is a process variable linearly increasing from 0 to 1 as time progresses
 ## Results
 They evaluate on several datasets, outperform zero-shot adaptation and also previous baselines by good margins. Some of the results are shown below, although they also evaluate on other datasets such as the Office dataset and also on non-classification settings such as the person-reidentification. 
 
-![Quantitative Results](DANN_results.png)
+![Quantitative Results](results.png)
 
 They also provide t-sne visualisations of the model activations with and without adaptation, and the activations of adapted models are indistinguishable between source and target domains.
 
