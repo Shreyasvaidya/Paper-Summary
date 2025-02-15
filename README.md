@@ -8,7 +8,7 @@ A repository for organizing summaries of papers I read. Mostly around classical 
 
    This work intends to peform classification tasks using representations which are indistinguishable between the source and target domains by a trained domain classifier
 
-## Vision Language Models for object detection
+## Vision Language Models for Object Detection
 1) Grounded Language-Image Pre-training
  
    [Summary]() [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)
