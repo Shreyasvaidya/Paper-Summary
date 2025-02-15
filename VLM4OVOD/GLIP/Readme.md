@@ -24,10 +24,8 @@ They first Pre-train a teacher model (with Swin-Tiny backbone) on the hand-annot
 One of the most interesting findings of the paper is that the Student model outperforms the Teacher model. The authors argue that the reason for this is the text descriptions of web-scale data are very rich and hence the Teacher model can infer some object categories not seen in training data through the rich text prompt, and those objects become a supervised signal for the student model
              
 ![](prompt.png)                                      
-
                                         
-                                
-The model performs better with more expressive prompts
+                               
 ## Results
 
 ![](results.png)
