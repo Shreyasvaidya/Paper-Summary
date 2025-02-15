@@ -11,7 +11,7 @@ A repository for organizing summaries of papers I read. Mostly around classical 
 ## Vision Language Models for Object Detection
 1) Grounded Language-Image Pre-training
  
-   [Summary]() [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)
+   [Summary](VLM4OVOD/GLIP/Readme.md) [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)
   
    Object detection is the task of detecting objects given a few target classes. Phrase grounding is the task of finding regions in image which align with each word in a given    phrase. This paper unifies the two tasks by either giving phrases (for phrase grounding) or target classes (for object detection) as text input to the model.
  
