@@ -29,7 +29,7 @@ One of the most interesting findings of the paper is that the Student model outp
                                         
                                         
                                         The model performs better with more expressive prompts
-Results
+## Results
 
 ![](results.png)
 
