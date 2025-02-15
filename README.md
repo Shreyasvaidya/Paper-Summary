@@ -1,5 +1,5 @@
 # Paper-Summary
-A repository for organizing summaries of papers I read. Mostly around classical Domain adaptation, Vision Language Models for open vocabulary object detection and LLM finetuning. 
+A repository for organizing summaries of papers I read. Mostly around classical Domain adaptation, Vision Language Models for Open Vocabulary Object Detection and LLM finetuning. 
 
 ## Domain Adaptation papers
 1) Domain-Adversarial Training of Neural Networks
