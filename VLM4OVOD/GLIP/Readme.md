@@ -9,10 +9,9 @@
 
 Object detection is the task of detecting regions in an image which correspond to a predefined list of objects. Phrase Grounding is the task of identifying which regions in images correspond to different phrases in a given sentence. In this paper, the authors unify object detection and phrase grounding by passing dot separated list of objects (for object detection) or a sentence caption 
 
-![](everything_is_a_prompt.png)
+![](Everything_prompt.png)
 
-                                        
-
+                                    
 ## Model Architecture
 
 ![architecture](architecture.png)
