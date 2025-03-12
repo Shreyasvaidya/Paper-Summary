@@ -15,3 +15,10 @@ A repository for organizing summaries of papers I read. Mostly around Domain ada
   
    Object detection is the task of detecting objects given a few target classes. Phrase grounding is the task of finding regions in image which align with each word in a given    phrase. This paper unifies the two tasks by either giving phrases (for phrase grounding) or target classes (for object detection) as text input to the model.
  
+## LLM finetuning papers
+1) QLORA: Efficient Finetuning of Quantized LLMs
+
+[Summary]() [Paper Link](https://openreview.net/pdf?id=OUIFPHEgJU)
+
+They introduce several optimizations such as double quantization, paged optimizers as well a 4 bit NormalFloat datatype which make finetuning a mid-sized 65B parameter model possible on a single 48 GB GPU.
+
