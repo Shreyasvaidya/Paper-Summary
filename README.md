@@ -18,7 +18,7 @@ A repository for organizing summaries of papers I read. Mostly around Domain ada
 ## LLM finetuning papers
 1) QLORA: Efficient Finetuning of Quantized LLMs
 
-[Summary](LlmFinetuning/QLora/Readme.md) [Paper Link](https://openreview.net/pdf?id=OUIFPHEgJU)
+   [Summary](LlmFinetuning/QLora/Readme.md) [Paper Link](https://openreview.net/pdf?id=OUIFPHEgJU)
 
-They introduce several optimizations such as double quantization, paged optimizers as well a 4 bit NormalFloat datatype which make finetuning a mid-sized 65B parameter model possible on a single 48 GB GPU.
+   They introduce several optimizations such as double quantization, paged optimizers as well a 4 bit NormalFloat datatype which make finetuning a mid-sized 65B parameter       model possible on a single 48 GB GPU.
 
