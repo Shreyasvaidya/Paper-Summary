@@ -14,4 +14,4 @@ The paper uses several optimizations as well as introduces several new ones such
 
 ### Low Rank adaptation
 
-In Low Rank adaptation (LoRA finetuning), the weight updates 〖∆W〗_(d*d) are represented as a product of 2 matrices A_(d*r) and B_(r*d). These matrices are of much lower rank  as compared to W (d≪r) and hence can be tuned much more efficiently, but still have shown to give performance improvements comparable to full finetuning.
+In Low Rank adaptation (LoRA finetuning), the weight updates $`∆W_{d*d}`$ are represented as a product of 2 matrices $`A_{d*r}`$ and $`B_{r*d}`$. These matrices are of much lower rank  as compared to $`W`$  $`(d≪r)`$ and hence can be tuned much more efficiently, but still have shown to give performance improvements comparable to full finetuning.
